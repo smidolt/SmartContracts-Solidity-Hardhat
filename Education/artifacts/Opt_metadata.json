@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "q",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Education/9_Deploy.sol": "Opt"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Education/9_Deploy.sol": {
+			"keccak256": "0xdade65b447a97e9b6cfa1870756ef1fd528c21f4dad54d07296ce8b5818d5f42",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://22ecfeaaac7b54669fb0ad7831e93fa477896b349c9f32cc7c5a38e8997a2359",
+				"dweb:/ipfs/QmVXQ2FJVb6LNu6cPvJSRHiNcuUh9J7qKgPW4XbooeaRs7"
+			]
+		}
+	},
+	"version": 1
+}

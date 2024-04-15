@@ -1,0 +1,12 @@
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.25;
+
+contract FundMe
+{
+mapping (address=>uint256)whiteList;
+function fund() public payable 
+{
+    
+}
+}

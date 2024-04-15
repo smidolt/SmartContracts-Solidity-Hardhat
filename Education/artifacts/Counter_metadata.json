@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "incremen1tCount",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Users/smidolt/new files in programming/HARDHEAD/contracts/Education/1_SimpleCounter.sol": "Counter"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Users/smidolt/new files in programming/HARDHEAD/contracts/Education/1_SimpleCounter.sol": {
+			"keccak256": "0xb619846f02396a7fbc008eb42c6fa6674cb19e033996ec52c9eb224f1d3192f2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://96c6decf7f934efa3b3f9b770dbf40391bdd42083c88bfaa7617cc13f379c9bf",
+				"dweb:/ipfs/QmbEghShgqVcHK93BFJeGbqw9u1aWjbmD6tpfMvVeTcF1v"
+			]
+		}
+	},
+	"version": 1
+}

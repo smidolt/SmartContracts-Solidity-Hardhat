@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Users/smidolt/new files in programming/HARDHEAD/contracts/Education/8_Optimisation.sol": "NotOpt"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Users/smidolt/new files in programming/HARDHEAD/contracts/Education/8_Optimisation.sol": {
+			"keccak256": "0x864c509a30b01fea03912a14bf0b510550163dc67a883c4e6d4664968a33b1c9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7657ffaf6b6240c8ee73c2d4ee95ce50303d1e51a5c6c883674da18a025515ff",
+				"dweb:/ipfs/QmNP56wv2mwsFaSiFBthWevbv6GYs7wbCuV7bBg7YouwHU"
+			]
+		}
+	},
+	"version": 1
+}
