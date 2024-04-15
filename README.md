@@ -4,6 +4,12 @@ Welcome to my smart contracts repository! Here you'll find various folders conta
 
 ## Folders Overview
 
+### Projects
+In the `Projects` folder, you'll find various interesting projects. Feel free to explore and discover something that sparks your interest or inspires you. There's a diverse range of smart contract implementations and applications waiting to be explored! 
+
+**I recommend checking that folder first!**
+
+
 ### Test
 In the `Test` folder, you'll find testing files used for smart contract development. I use Foundry HardHat for common testing activities to ensure the reliability and functionality of my smart contracts.
 
@@ -12,9 +18,6 @@ The `Small Projects` folder contains converters and implementations of not compl
 
 ### Education
 The `Education` folder contains explanations and tutorials covering common topics related to smart contracts. Dive into these resources if you're looking to understand fundamental concepts in blockchain development.
-
-### Projects
-In the `Projects` folder, you'll find various interesting projects. Feel free to explore and discover something that sparks your interest or inspires you. There's a diverse range of smart contract implementations and applications waiting to be explored!
 
 ## Getting Started
 To get started, clone this repository and explore the folders based on your interests. Each folder contains detailed README files and project documentation to guide you through the contents.
